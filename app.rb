@@ -45,7 +45,7 @@ class App
   end
 
   def create_student
-    print "Enter the student's age: "
+    "Enter the student's age: "
     age = gets.chomp.to_i
 
     print "Enter the student's name: "
